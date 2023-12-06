@@ -1,0 +1,24 @@
+{
+  "posts": [
+    {
+      "title": "gulam",
+      "body": "Todays article will demonstrate how to develop a login form in react js using formik.",
+      "id": 1
+    },
+    {
+      "title": "ajithganapathy",
+      "body": "zybisy",
+      "id": 3
+    },
+    {
+      "title": "zxcvbnmsdfgh",
+      "body": "qwertyuisdfghzxcvbn",
+      "id": 5
+    },
+    {
+      "title": "zxcvbnmsdfgh",
+      "body": "erredtrdrtdytdgfuy",
+      "id": 6
+    }
+  ]
+}
